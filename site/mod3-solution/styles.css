@@ -1,0 +1,20 @@
+/* Styling for the tall section */
+.tall-section {
+  background-color: rgba(65, 144, 223, 0.075); 
+  height: 1000px; /* Makes the section tall */
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Navbar customization */
+.navbar-nav > li > a {
+  width: 100%; /* Dropdown items fill entire width */
+  background-color: hsl(160, 19%, 81%);
+  text-align: center; /* Center text */
+}
+
+/* Mobile menu background */
+#navbar-menu {
+  background-color: #10f8f8; 
+}
+
